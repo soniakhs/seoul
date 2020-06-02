@@ -3,10 +3,12 @@
 ![NSeoulTowerFull](https://user-images.githubusercontent.com/58199479/83516519-2c553f00-a512-11ea-933a-9d808faf4ff6.png)
 
 # INTRODUCTION
-> 기본적인 구성으로 깔끔하게 만든 사이트입니다.
+> 기본적인 구성으로 깔끔하게 만든 사이트입니다. <br>
+> N 서울 타워에 야경과 느낌을 최대한 살리기 위해 <em>사진</em>을 많이 넣었습니다.<br>
+> <b>자바스크립트</b>를 이용하여 메뉴를 구현했습니다.
 
 ## 만든 기간
 > 2018.6~2018.6
 
 ## COLOR
-> YELLOWGREEN,PURPLE
+> YELLOWGREEN,VIOLET
