@@ -11,4 +11,6 @@
 > 2018.6~2018.6
 
 ## COLOR
-> YELLOWGREEN,VIOLET
+> ![yellowgreen](https://user-images.githubusercontent.com/58199479/83523832-b22ab780-a51d-11ea-80b5-d0f706194f6f.PNG) YELLOWGREEN, 
+![vioret](https://user-images.githubusercontent.com/58199479/83523837-b35be480-a51d-11ea-8cc9-4698b8c7635f.PNG) VIOLET
+
